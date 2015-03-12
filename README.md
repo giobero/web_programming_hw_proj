@@ -1,4 +1,4 @@
-**Homework Project for my Senior year in IBSU in subject - Web Programming**
+**Homework Project for my Junior year in IBSU in subject - Web Programming**
 
 Some Demos on ExtJs 3
 * Resibale
