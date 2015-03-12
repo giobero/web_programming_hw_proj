@@ -1,0 +1,38 @@
+
+.frame-padding{
+	padding-left:15px; 
+	padding-right:15px; 
+	padding-top:15px; 
+	padding-bottom:15px;
+}
+
+.shav{
+	height:90;
+	width:90;
+	background-color:#000000;
+}
+.tetr{
+	height:90;
+	width:90;
+	background-color:#FFFFFF;
+}
+
+.icon-user{
+	background-image: url(../img/user.png) !important
+}
+
+.icon-bricks{
+	background-image: url(../img/bricks.png) !important
+}
+
+.icon-color-wheel{
+	background-image: url(../img/color_wheel.png) !important
+}
+
+.icon-comment{
+	background-image: url(../img/comment.png) !important
+}
+
+.icon-connect{
+	background-image: url(../img/connect.png) !important
+}
